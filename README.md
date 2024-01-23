@@ -43,8 +43,5 @@ Visualize key events or news affecting the stock prices.
 Publish to Power BI Service:
 
 Once you're satisfied with the dashboard, publish it to the Power BI service.
-Share the dashboard with stakeholders or embed it in a website.
-Regular Updates:
 
-Schedule data refresh to keep the analysis up-to-date with the latest stock information.
-Remember, this is a general guideline. The specifics may vary based on your data and analysis requirements. Power BI provides extensive capabilities, so explore features like DAX (Data Analysis Expressions) for advanced calculations and measures based on your needs.
+
